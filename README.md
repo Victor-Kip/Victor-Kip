@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victor-Kip
-- 👀 I’m interested in web development and artificial intelligence
-- 🌱 I’m currently learning artificial intelligence
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning React, Typescript,Firebase
 - 💞️ I’m looking to collaborate on ......
 - 📫 How to reach me ...vicklan132@gmail.com
 - 😄 Pronouns: ...Apache Helicopter
